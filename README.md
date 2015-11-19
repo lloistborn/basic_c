@@ -24,3 +24,6 @@ Palindrome
 
 ### Assignment #010
 Worm holes
+
+### License
+GNU GENERAL PUBLIC LICENSE
